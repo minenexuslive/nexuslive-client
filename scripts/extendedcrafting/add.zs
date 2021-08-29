@@ -1,5 +1,3 @@
-//Ultimate_ingot
-
 mods.extendedcrafting.TableCrafting.addShaped("19147755-434d-4731-9cc5-870a2dbb392f", 0, <item:extendedcrafting:the_ultimate_ingot>, [
 	[<item:minecraft:iron_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:netherite_ingot>, <item:mysticalagriculture:inferium_ingot>, <item:mysticalagriculture:prudentium_ingot>, <item:mysticalagriculture:imperium_ingot>, <item:mysticalagriculture:tertium_ingot>], 
 	[<item:mysticalagriculture:supremium_ingot>, <item:industrialforegoing:pink_slime_ingot>, <item:extendedcrafting:enhanced_ender_ingot>, <item:botania:manasteel_ingot>, <item:botania:terrasteel_ingot>, <item:botania:elementium_ingot>, <item:botania:gaia_ingot>], 
@@ -9,7 +7,6 @@ mods.extendedcrafting.TableCrafting.addShaped("19147755-434d-4731-9cc5-870a2dbb3
 	[<item:mekanism:ingot_steel>, <item:mekanism:ingot_uranium>, <item:immersiveengineering:ingot_nickel>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], 
 	[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]
 ]);
-
 mods.extendedcrafting.TableCrafting.addShaped("d3a45ee6-cebb-4440-b94f-ed110af008d6", 0, <item:extendedcrafting:the_ultimate_ingot>, [
 	[<item:minecraft:iron_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:netherite_ingot>, <item:mysticalagriculture:inferium_ingot>, <item:mysticalagriculture:prudentium_ingot>, <item:mysticalagriculture:imperium_ingot>, <item:mysticalagriculture:tertium_ingot>], 
 	[<item:mysticalagriculture:supremium_ingot>, <item:industrialforegoing:pink_slime_ingot>, <item:extendedcrafting:enhanced_ender_ingot>, <item:botania:manasteel_ingot>, <item:botania:terrasteel_ingot>, <item:botania:elementium_ingot>, <item:botania:gaia_ingot>], 
@@ -19,7 +16,6 @@ mods.extendedcrafting.TableCrafting.addShaped("d3a45ee6-cebb-4440-b94f-ed110af00
 	[<item:immersiveengineering:ingot_steel>, <item:immersiveengineering:ingot_uranium>, <item:thermal:nickel_ingot>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], 
 	[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]
 ]);
-
 mods.extendedcrafting.TableCrafting.addShaped("d2532ce3-e319-4413-b703-b11abf73eca4", 0, <item:extendedcrafting:the_ultimate_ingot>, [
 	[<item:minecraft:iron_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:netherite_ingot>, <item:mysticalagriculture:inferium_ingot>, <item:mysticalagriculture:prudentium_ingot>, <item:mysticalagriculture:imperium_ingot>, <item:mysticalagriculture:tertium_ingot>], 
 	[<item:mysticalagriculture:supremium_ingot>, <item:industrialforegoing:pink_slime_ingot>, <item:extendedcrafting:enhanced_ender_ingot>, <item:botania:manasteel_ingot>, <item:botania:terrasteel_ingot>, <item:botania:elementium_ingot>, <item:botania:gaia_ingot>], 
