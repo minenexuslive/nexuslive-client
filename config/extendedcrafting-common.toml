@@ -23,7 +23,7 @@
 	powerCapacity = 5000000
 	#How much FE/t the Crafting Core should use when crafting by default.
 	#Range: > 0
-	powerRate = 500
+	powerRate = 1000000
 	#Should the Crafting Core be enabled?
 	enabled = true
 
