@@ -1,0 +1,12 @@
+craftingTable.removeRecipe(<item:chickenchunks:chunk_loader>);
+craftingTable.removeRecipe(<item:chunknogobyebye:loader>);
+craftingTable.removeRecipe(<item:pocketstorage:psu_1>);
+craftingTable.removeRecipe(<item:pocketstorage:psu_2>);
+craftingTable.removeRecipe(<item:pocketstorage:psu_3>);
+craftingTable.removeRecipe(<item:pocketstorage:psu_4>);
+craftingTable.removeRecipe(<item:chiselsandbits:bit_bag>);
+craftingTable.removeRecipe(<item:chiselsandbits:bit_bag_dyed>);
+craftingTable.removeRecipe(<item:cyclic:storage_bag>);
+craftingTable.removeRecipe(<item:tconstruct:seared_bricks>);
+craftingTable.removeRecipe(<item:tconstruct:scorched_bricks>);
+craftingTable.removeRecipe(<item:mekanism:digital_miner>);
