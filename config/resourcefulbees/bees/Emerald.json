@@ -30,7 +30,7 @@
   },
   "BreedData": {
     "isBreedable": true,
-    "spawnWeight": 4
+    "spawnWeight": 2
   },
   "TraitData": {}
 }
