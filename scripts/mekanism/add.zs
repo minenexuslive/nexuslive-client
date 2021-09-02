@@ -58,13 +58,7 @@ mods.extendedcrafting.TableCrafting.addShaped("5307e109-6c85-4f3e-9e1d-73976e808
 	[<item:resourcefulbees:netherite_honeycomb>, <item:appliedenergistics2:terminal>, <item:mekanism:pellet_polonium>, <item:appliedenergistics2:terminal>, <item:resourcefulbees:netherite_honeycomb>], 
 	[<item:draconicevolution:draconium_core>, <item:resourcefulbees:netherite_honeycomb>, <item:pneumaticcraft:capacitor>, <item:resourcefulbees:netherite_honeycomb>, <item:draconicevolution:draconium_core>]
 ]);
-mods.extendedcrafting.TableCrafting.addShaped("f560cb88-d230-45c1-9378-f7f18302ed93", 0, <item:mekanism:digital_miner>, [
-    [<item:mekanism:alloy_reinforced>, <item:mekanism:advanced_energy_cube>, <item:mekanism:teleportation_core>, <item:mekanism:advanced_energy_cube>, <item:mekanism:alloy_reinforced>], 
-    [<item:mekanism:elite_universal_cable>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:logistical_sorter>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:elite_universal_cable>], 
-    [<item:mekanism:teleportation_core>, <item:mekanism:logistical_sorter>, <item:mekanism:robit>, <item:mekanism:logistical_sorter>, <item:mekanism:teleportation_core>], 
-    [<item:mekanism:elite_universal_cable>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:logistical_sorter>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:elite_universal_cable>], 
-    [<item:mekanism:alloy_reinforced>, <item:mekanism:elite_mechanical_pipe>, <item:mekanism:teleportation_core>, <item:mekanism:elite_mechanical_pipe>, <item:mekanism:alloy_reinforced>]
-]);
+
 mods.extendedcrafting.TableCrafting.addShaped("ab0e89a2-64f7-4652-8c3a-b37d1af48431", 0, <item:mekanism:canteen>, [
 	[<item:minecraft:air>, <item:mekanism:ingot_steel>, <item:industrialforegoing:plastic>, <item:mekanism:alloy_reinforced>, <item:industrialforegoing:plastic>, <item:mekanism:ingot_steel>, <item:minecraft:air>], 
 	[<item:minecraft:air>, <item:mekanism:ingot_steel>, <item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>, <item:mekanism:ingot_steel>, <item:minecraft:air>], 
