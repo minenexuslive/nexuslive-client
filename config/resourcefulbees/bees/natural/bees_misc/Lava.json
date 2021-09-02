@@ -80,7 +80,7 @@
         "feedItem": "minecraft:lava_bucket",
         "feedAmount": 1,
         "childGrowthDelay": -24000,
-        "breedDelay": 60000
+        "breedDelay": 6000
     },
     "TraitData": {
         "hasTraits": true

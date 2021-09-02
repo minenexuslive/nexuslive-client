@@ -81,7 +81,7 @@
         "feedItem": "minecraft:beef",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 60000
+        "breedDelay": 6000
     },
     "TraitData": {
         "hasTraits": false

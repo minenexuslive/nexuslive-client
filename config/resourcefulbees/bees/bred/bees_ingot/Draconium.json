@@ -61,7 +61,7 @@
         "hasFluidOutput": false
     },
     "SpawnData": {
-        "canSpawnInWorld": false,
+        "canSpawnInWorld": true,
         "biomeWhitelist": "TAG:end",
         "biomeBlacklist": "",
         "spawnWeight": 1,
@@ -80,7 +80,7 @@
         "feedItem": "draconicevolution:draconium_block",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 60000
+        "breedDelay": 6000
     },
     "TraitData": {
         "hasTraits": false

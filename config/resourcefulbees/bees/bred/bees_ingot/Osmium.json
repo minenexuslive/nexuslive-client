@@ -53,7 +53,7 @@
         "hasFluidOutput": false
     },
     "SpawnData": {
-        "canSpawnInWorld": false,
+        "canSpawnInWorld": true,
         "biomeWhitelist": "",
         "biomeBlacklist": "",
         "spawnWeight": 1,
@@ -72,7 +72,7 @@
         "feedItem": "mekanism:block_osmium",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 60000
+        "breedDelay": 6000
     },
     "TraitData": {
         "hasTraits": false
