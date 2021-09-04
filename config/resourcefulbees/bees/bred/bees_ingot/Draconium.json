@@ -1,6 +1,6 @@
 {
     "flower": "draconicevolution:draconium_block",
-    "maxTimeInHive": 2400,
+    "maxTimeInHive": 600,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "ato/draconium_bee",
@@ -80,7 +80,7 @@
         "feedItem": "draconicevolution:draconium_block",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

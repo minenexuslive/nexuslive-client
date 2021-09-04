@@ -1,6 +1,6 @@
 {
     "flower": "mekanism:block_salt",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 600,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "misc/salt_baee",
@@ -80,7 +80,7 @@
         "feedItem": "mekanism:block_salt",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

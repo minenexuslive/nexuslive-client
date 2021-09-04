@@ -1,6 +1,6 @@
 {
     "flower": "mekanism:block_uranium",
-    "maxTimeInHive": 2400,
+    "maxTimeInHive": 600,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "ato/uranium_bee",
@@ -72,7 +72,7 @@
         "feedItem": "mekanism:block_uranium",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

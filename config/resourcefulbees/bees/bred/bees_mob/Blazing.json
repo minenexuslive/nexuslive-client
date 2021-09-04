@@ -1,6 +1,6 @@
 {
     "flower": "botania:blaze_block",
-    "maxTimeInHive": 2400,
+    "maxTimeInHive": 600,
     "traits": ["blaze", "nether"],
     "hasHoneycomb": true,
     "baseLayerTexture": "/custom/bee",
@@ -72,7 +72,7 @@
         "feedItem": "xreliquary:molten_core",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": true

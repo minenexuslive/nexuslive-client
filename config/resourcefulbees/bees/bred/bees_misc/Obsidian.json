@@ -1,6 +1,6 @@
 {
     "flower": "minecraft:obsidian",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 600,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "/custom/bee",
@@ -72,7 +72,7 @@
         "feedItem": "minecraft:obsidian",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

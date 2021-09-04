@@ -1,6 +1,6 @@
 {
     "flower": "tag:forge:sand",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 600,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "misc/sandy_bee",
@@ -80,7 +80,7 @@
         "feedItem": "tag:forge:sand",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

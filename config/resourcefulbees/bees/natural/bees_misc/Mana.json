@@ -1,6 +1,6 @@
 {
     "flower": "botania:terrasteel_block",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 600,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "/custom/bee",
@@ -80,7 +80,7 @@
         "feedItem": "botania:terrasteel_block",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

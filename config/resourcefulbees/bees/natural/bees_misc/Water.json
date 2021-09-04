@@ -1,6 +1,6 @@
 {
     "flower": "minecraft:water",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 600,
     "traits": ["can_swim"],
     "hasHoneycomb": true,
     "baseLayerTexture": "/custom/bee",
@@ -80,7 +80,7 @@
         "feedItem": "minecraft:water_bucket",
         "feedAmount": 1,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": true

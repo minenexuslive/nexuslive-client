@@ -80,7 +80,7 @@
       "feedItem": "tag:forge:dirt",
       "feedAmount": 5,
       "childGrowthDelay": -24000,
-      "breedDelay": 6000
+      "breedDelay": 30000
   },
   "TraitData": {
       "hasTraits": false

@@ -1,6 +1,6 @@
 {
     "flower": "mekanism:block_tin",
-    "maxTimeInHive": 2400,
+    "maxTimeInHive": 600,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "ato/tin_bee",
@@ -72,7 +72,7 @@
         "feedItem": "mekanism:block_tin",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

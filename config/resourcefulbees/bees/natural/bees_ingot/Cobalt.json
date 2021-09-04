@@ -1,6 +1,6 @@
 {
     "flower": "tconstruct:cobalt_block",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 600,
     "traits": ["nether"],
     "hasHoneycomb": true,
     "baseLayerTexture": "misc/cobalt_bee",
@@ -66,7 +66,7 @@
         "feedItem": "tconstruct:cobalt_block",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": true

@@ -1,6 +1,6 @@
 {
     "flower": "immersiveengineering:storage_aluminum",
-    "maxTimeInHive": 2400,
+    "maxTimeInHive": 600,
     "traits": ["nether"],
     "hasHoneycomb": true,
     "baseLayerTexture": "ato/aluminum_bee",
@@ -72,7 +72,7 @@
         "feedItem": "immersiveengineering:storage_aluminum",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

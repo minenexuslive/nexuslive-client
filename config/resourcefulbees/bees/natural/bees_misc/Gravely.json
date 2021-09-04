@@ -1,6 +1,6 @@
 {
     "flower": "tag:forge:gravel",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 600,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "misc/gravely_bee",
@@ -80,7 +80,7 @@
         "feedItem": "tag:forge:gravel",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

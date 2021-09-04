@@ -1,6 +1,6 @@
 {
     "flower": "tag:misctags:flowers/glowing_flowers",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 600,
     "traits": ["nether", "pigman"],
     "hasHoneycomb": true,
     "baseLayerTexture": "/custom/bee",
@@ -80,7 +80,7 @@
         "feedItem": "tag:misctags:flowers/glowing_flowers",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": true

@@ -1,6 +1,6 @@
 {
     "flower": "thermal:silver_block",
-    "maxTimeInHive": 2400,
+    "maxTimeInHive": 600,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "ato/silver_bee",
@@ -72,7 +72,7 @@
         "feedItem": "thermal:silver_block",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

@@ -1,6 +1,6 @@
 {
     "flower": "tag:minecraft:wither_summon_base_blocks",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 600,
     "traits": ["nether", "wither"],
     "hasHoneycomb": true,
     "baseLayerTexture": "wither/wither_bee",
@@ -72,7 +72,7 @@
         "feedItem": "xreliquary:withered_rib",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": true

@@ -1,6 +1,6 @@
 {
     "flower": "minecraft:hay_block",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 600,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "/crop/wheat_bee",
@@ -80,7 +80,7 @@
         "feedItem": "minecraft:hay_block",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

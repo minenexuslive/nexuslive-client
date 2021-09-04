@@ -1,6 +1,6 @@
 {
     "flower": "mekanism:block_copper",
-    "maxTimeInHive": 2400,
+    "maxTimeInHive": 600,
     "traits": ["nether"],
     "hasHoneycomb": true,
     "baseLayerTexture": "ato/copper_bee",
@@ -72,7 +72,7 @@
         "feedItem": "mekanism:block_copper",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

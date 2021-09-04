@@ -1,6 +1,6 @@
 {
     "flower": "minecraft:stone",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 600,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "misc/stoned_bee",
@@ -72,7 +72,7 @@
         "feedItem": "immersiveengineering:hemp_fiber",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false
