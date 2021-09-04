@@ -2,8 +2,14 @@
   "flower": "minecraft:water",
   "hasHoneycomb": false,
   "traits": ["can_swim"],
-  "maxTimeInHive": 1200,
+  "maxTimeInHive": 12000,
   "sizeModifier": 0.75,
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
+  },
   "baseLayerTexture": "natural/icy_bee",
   "ColorData": {
     "isBeeColored": false,

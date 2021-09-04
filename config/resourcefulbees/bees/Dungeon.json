@@ -2,7 +2,7 @@
   "flower": "minecraft:spawner",
   "hasHoneycomb": false,
   "traits": [],
-  "maxTimeInHive": 1200,
+  "maxTimeInHive": 12000,
   "baseLayerTexture": "dungeon/dungeon_bee",
   "ColorData": {
     "isBeeColored": false,
@@ -11,6 +11,12 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": false
+  },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
   },
   "MutationData": {
     "hasMutation": true,
@@ -39,7 +45,7 @@
     "canSpawnInWorld": true,
     "biomeWhitelist": "tag:overworld",
     "biomeBlacklist": "tag:nether",
-    "spawnWeight": 0.2,
+    "spawnWeight": 0.1,
     "minGroupSize": 1,
     "maxGroupSize": 1,
     "maxYLevel": 45,

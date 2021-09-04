@@ -1,6 +1,6 @@
 {
     "flower": "mekanism:block_tin",
-    "maxTimeInHive": 600,
+    "maxTimeInHive": 12000,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "ato/tin_bee",
@@ -20,10 +20,10 @@
         "modelType": "ORE"
     },
     "CombatData": {
-        "isPassive": true,
-        "removeStingerOnAttack": true,
+        "isPassive": false,
+        "removeStingerOnAttack": false,
         "inflictsPoison": true,
-        "attackDamage": 1
+        "attackDamage": 20
     },
     "MutationData": {
         "hasMutation": true,
@@ -45,6 +45,7 @@
     "CentrifugeData": {
         "hasCentrifugeOutput": true,
         "mainOutput": "mekanism:ingot_tin",
+        "mainOutputWeight": 0.01,
         "bottleOutput": "minecraft:honey_bottle",
         "bottleOutputWeight": 0.25,
         "bottleOutputCount": 1,
@@ -68,7 +69,7 @@
         "parent1": "Quartz",
         "parent2": "Stoned",
         "breedWeight": 10,
-        "breedChance": 0.15,
+        "breedChance": 0.1,
         "feedItem": "mekanism:block_tin",
         "feedAmount": 5,
         "childGrowthDelay": -24000,

@@ -1,6 +1,6 @@
 {
   "flower": "tag:forge:storage_blocks/coal",
-  "maxTimeInHive": 600,
+  "maxTimeInHive": 12000,
   "hasHoneycomb": true,
   "baseLayerTexture": "ores/coal/coal_bee",
   "ColorData": {
@@ -8,6 +8,12 @@
     "honeycombColor": "#303030",
     "modelType": "ORE"
   },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
+},
   "MutationData": {
     "hasMutation": true,
     "mutations" : [
@@ -24,6 +30,7 @@
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:coal",
+    "mainOutputWeight": 0.01,
     "mainOutputCount": 16
   },
   "SpawnData": {

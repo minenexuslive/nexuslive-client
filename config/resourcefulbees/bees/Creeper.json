@@ -1,6 +1,6 @@
 {
   "flower": "ALL",
-  "maxTimeInHive": 600,
+  "maxTimeInHive": 12000,
   "hasHoneycomb": true,
   "baseLayerTexture": "/creeper/creeper_bee",
   "traits" : ["creeper"],
@@ -12,6 +12,12 @@
     "glowingPulse": 2,
     "emissiveLayerTexture": "/creeper/creeper_bee_emissive"
   },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
+},
   "MutationData": {
     "hasMutation": true,
     "mutations" : [
@@ -28,6 +34,7 @@
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:gunpowder",
+    "mainOutputWeight": 0.01,
     "mainOutputCount": 4
   },
   "SpawnData": {

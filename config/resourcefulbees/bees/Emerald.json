@@ -7,6 +7,12 @@
     "honeycombColor": "#18eb09",
     "modelType": "ORE"
   },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
+  },
   "MutationData": {
     "hasMutation": true,
     "mutations" : [
@@ -22,7 +28,8 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:emerald"
+    "mainOutput": "minecraft:emerald",
+    "mainOutputWeight": 0.01
   },
   "SpawnData": {
     "canSpawnInWorld": true,

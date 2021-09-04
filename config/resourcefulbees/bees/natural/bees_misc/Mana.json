@@ -1,6 +1,6 @@
 {
     "flower": "botania:terrasteel_block",
-    "maxTimeInHive": 600,
+    "maxTimeInHive": 12000,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "/custom/bee",
@@ -20,10 +20,10 @@
         "modelType": "default"
     },
     "CombatData": {
-        "isPassive": true,
-        "removeStingerOnAttack": true,
+        "isPassive": false,
+        "removeStingerOnAttack": false,
         "inflictsPoison": true,
-        "attackDamage": 1
+        "attackDamage": 20
     },
     "MutationData": {
         "hasMutation": true,
@@ -46,7 +46,7 @@
         "hasCentrifugeOutput": true,
         "mainInputCount": 9,
         "mainOutput": "botania:black_lotus",
-        "mainOutputWeight": 0.33,
+        "mainOutputWeight": 0.01,
         "mainOutputCount": 1,
         "mainNBTData": {},
         "secondaryOutput": "botania:blacker_lotus",
@@ -76,7 +76,7 @@
         "parent1": "",
         "parent2": "",
         "breedWeight": 10,
-        "breedChance": 0.4,
+        "breedChance": 0.1,
         "feedItem": "botania:terrasteel_block",
         "feedAmount": 5,
         "childGrowthDelay": -24000,

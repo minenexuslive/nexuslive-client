@@ -1,12 +1,18 @@
 {
   "flower": "tag:forge:storage_blocks/diamond",
-  "maxTimeInHive": 600,
+  "maxTimeInHive": 12000,
   "hasHoneycomb": true,
   "baseLayerTexture": "ores/diamond/diamond_bee",
   "ColorData": {
     "isBeeColored": false,
     "honeycombColor": "#00ffff",
     "modelType": "ORE"
+  },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
   },
   "MutationData": {
     "hasMutation": true,
@@ -24,6 +30,7 @@
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:diamond",
+    "mainOutputWeight": 0.01,
     "mainOutputCount": 1
   },
   "SpawnData": {

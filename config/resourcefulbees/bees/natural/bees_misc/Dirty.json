@@ -1,6 +1,6 @@
 {
   "flower": "tag:forge:dirt",
-  "maxTimeInHive": 1200,
+  "maxTimeInHive": 12000,
   "traits": [""],
   "hasHoneycomb": true,
   "baseLayerTexture": "misc/dirty_bee",

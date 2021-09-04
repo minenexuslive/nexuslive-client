@@ -1,6 +1,6 @@
 {
   "flower": "ALL",
-  "maxTimeInHive": 600,
+  "maxTimeInHive": 12000,
   "hasHoneycomb": true,
   "ColorData": {
     "isBeeColored": true,
@@ -8,10 +8,17 @@
     "isRainbowBee": true,
     "isGlowing": true
   },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
+  },
   "MutationData": {},
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:red_dye",
+    "mainOutputWeight": 0.01,
     "secondaryOutput": "minecraft:green_dye",
     "bottleOutput": "resourcefulbees:rainbow_honey_bottle",
     "bottleOutputWeight": 0.02

@@ -1,12 +1,18 @@
 {
   "flower": "tag:forge:storage_blocks/gold",
   "hasHoneycomb": true,
-  "maxTimeInHive": 800,
+  "maxTimeInHive": 12000,
   "baseLayerTexture": "ores/gold/gold_bee",
   "ColorData": {
     "isBeeColored": false,
     "honeycombColor": "#FFDC00",
     "modelType": "ORE"
+  },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
   },
   "MutationData": {
     "hasMutation": true,
@@ -23,7 +29,8 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:gold_ingot"
+    "mainOutput": "minecraft:gold_ingot",
+    "mainOutputWeight": 0.01
   },
   "SpawnData": {
     "canSpawnInWorld": true,

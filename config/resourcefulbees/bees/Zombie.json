@@ -1,12 +1,18 @@
 {
   "flower": "tag:minecraft:bee_growables",
-  "maxTimeInHive": 600,
+  "maxTimeInHive": 12000,
   "hasHoneycomb": true,
   "baseLayerTexture": "zombie/zombie_bee",
   "traits": ["zombie"],
   "ColorData": {
     "isBeeColored": false,
     "honeycombColor": "#2F4E32"
+  },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
   },
   "MutationData": {
     "hasMutation": true,
@@ -23,7 +29,8 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:rotten_flesh"
+    "mainOutput": "minecraft:rotten_flesh",
+    "mainOutputWeight": 0.01
   },
   "SpawnData": {
     "canSpawnInWorld": true,
