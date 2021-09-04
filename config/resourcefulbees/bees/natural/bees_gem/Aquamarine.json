@@ -57,14 +57,14 @@
         "bottleOutputWeight": 0.25,
         "bottleOutputCount": 1,
         "bottleNBTData": {},
-        "recipeTime": 300,
+        "recipeTime": 3000,
         "hasFluidOutput": false
     },
     "SpawnData": {
         "canSpawnInWorld": true,
         "biomeWhitelist": "tag:beach",
         "biomeBlacklist": "",
-        "spawnWeight": 1,
+        "spawnWeight": 0.1,
         "minYLevel": 0,
         "maxYLevel": 255,
         "minGroupSize": 1,
