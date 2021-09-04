@@ -15,7 +15,7 @@ splashes = true
 	#Set this to false to disable rendering of accessories in the player.
 	accessories = true
 	#Set this to true if you use lots of floating flowers and are experiencing rendering lag. Will disable the floating flowers' animations and render them statically for a major performance boost. Hit F3+A in-world after toggling this.
-	staticFloaters = false
+	staticFloaters = true
 	#The height of the mana display bar in above the XP bar. You can change this if you have a mod that changes where the XP bar is.
 	#Range: > 0
 	manaBarHeight = 29
