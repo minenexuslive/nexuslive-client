@@ -1,0 +1,26 @@
+{
+  "type": "cucumber:shaped_no_mirror",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:nether_quartz"
+    }
+  ],
+  "pattern": [
+    "EFE",
+    "FFF",
+    "EFE"
+  ],
+  "key": {
+    "E": {
+      "item": "mysticalagriculture:gold_essence"
+    },
+    "F": {
+      "item": "mysticalagriculture:nether_essence"
+    }
+  },
+ "result": {
+    "item": "minecraft:nether_gold_ore",
+    "count": 1
+  }
+}
