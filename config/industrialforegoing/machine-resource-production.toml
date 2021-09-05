@@ -115,7 +115,7 @@
 
 	[MachineResourceProductionConfig.MaterialStoneWorkFactoryConfig]
 		#Amount of Power Consumed per Tick - Default: [60FE]
-		powerPerTick = 60
+		powerPerTick = 200
 		#Max Stored Power [FE] - Default: [10000 FE]
 		maxStoredPower = 10000
 		#Max Amount of Stored Fluid [Water] - Default: [2000mB]
@@ -123,7 +123,7 @@
 		#Max Amount of Stored Fluid [Lava] - Default: [2000mB]
 		maxLavaTankSize = 2000
 		#Cooldown Time in Ticks [20 Ticks per Second] - Default: [60 (3s)]
-		maxProgress = 60
+		maxProgress = 300
 
 	[MachineResourceProductionConfig.WaterCondensatorConfig]
 		#Max Stored Power [FE] - Default: [10000 FE]
