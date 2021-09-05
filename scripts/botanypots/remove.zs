@@ -1,0 +1,1 @@
+craftingTable.removeRecipe(<tag:items:botanypots:hopper_botany_pots>);
