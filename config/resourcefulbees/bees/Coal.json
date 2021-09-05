@@ -31,7 +31,8 @@
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:coal",
     "mainOutputWeight": 0.01,
-    "mainOutputCount": 16
+    "mainOutputCount": 16,
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,

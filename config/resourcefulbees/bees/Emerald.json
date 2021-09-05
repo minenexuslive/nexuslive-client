@@ -29,7 +29,8 @@
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:emerald",
-    "mainOutputWeight": 0.01
+    "mainOutputWeight": 0.01,
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,

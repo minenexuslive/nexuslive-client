@@ -30,7 +30,8 @@
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:gold_ingot",
-    "mainOutputWeight": 0.1
+    "mainOutputWeight": 0.1,
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,

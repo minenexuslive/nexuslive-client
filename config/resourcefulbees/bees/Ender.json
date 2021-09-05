@@ -32,7 +32,8 @@
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:ender_pearl",
     "mainOutputWeight": 0.01,
-    "bottleOutput" : "minecraft:dragon_breath"
+    "bottleOutput" : "minecraft:dragon_breath",
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,

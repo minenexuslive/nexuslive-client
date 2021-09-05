@@ -21,7 +21,8 @@
     "mainOutputWeight": 0.01,
     "secondaryOutput": "minecraft:green_dye",
     "bottleOutput": "resourcefulbees:rainbow_honey_bottle",
-    "bottleOutputWeight": 0.02
+    "bottleOutputWeight": 0.02,
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,
