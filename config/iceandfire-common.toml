@@ -138,7 +138,7 @@
 		"Dragon Flute Distance" = 4
 		#Max dragon health. Health is scaled to this
 		#Range: 1.0 ~ 100000.0
-		"Dragon Health" = 500.0
+		"Dragon Health" = 5000.0
 		#Change this to slow down or speed up dragon or amphithere flight.
 		#Range: 0.0 ~ 2.0
 		"Dragon Flight Speed Modifier" = 1.0
@@ -149,7 +149,7 @@
 		"Dragon Attack Damage(Fire breath)" = 2.0
 		#Max dragon attack damage. Attack Damage is scaled to this
 		#Range: 1 ~ 10000
-		"Dragon Attack Damage" = 17
+		"Dragon Attack Damage" = 30
 		#How long it takes(in ticks) for a dragon egg to hatch
 		#Range: > 1
 		"Dragon Egg Hatch Time" = 7200
@@ -419,14 +419,14 @@
 [Items]
 	#Default durability value of dragonsteel tools.
 	#Range: > 1
-	"Dragonsteel Base Durability" = 8000
+	"Dragonsteel Base Durability" = 4000
 	#True if the dragon bone fire sword ignites attackers.
 	"Dragon Bone Fire Abilities" = true
 	#True if the dragon bone ice sword freezes attackers.
 	"Dragon Bone Ice Abilities" = true
 	#Default armor value of dragonsteel chestplate.
 	#Range: > 7
-	"Dragonsteel Base Armor" = 12
+	"Dragonsteel Base Armor" = 20
 	#Disable this to remove easter egg with tinkers installed.
 	Weezer = true
 	#Default durability value of dragonsteel equipment.
