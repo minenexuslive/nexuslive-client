@@ -45,7 +45,7 @@
     "canSpawnInWorld": true,
     "biomeWhitelist": "tag:overworld",
     "biomeBlacklist": "tag:nether",
-    "spawnWeight": 0.1,
+    "spawnWeight": 1,
     "minGroupSize": 1,
     "maxGroupSize": 1,
     "maxYLevel": 45,
@@ -54,7 +54,8 @@
   "BreedData": {
     "isBreedable": true,
     "feedItem": "minecraft:mossy_cobblestone",
-    "feedAmount": 4
+    "feedAmount": 4,
+    "breedChance": 0.1
   },
   "TraitData": {
     "hasTraits": true

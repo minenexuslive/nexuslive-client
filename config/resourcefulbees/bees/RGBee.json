@@ -27,7 +27,8 @@
     "canSpawnInWorld": true,
     "biomeWhitelist": "TAG:OVerWorld",
     "biomeBlacklist": "tag:ocean",
-    "spawnWeight": 0.1
+    "spawnWeight": 5,
+    "breedChance": 0.1
   },
   "BreedData": {
     "isBreedable": true

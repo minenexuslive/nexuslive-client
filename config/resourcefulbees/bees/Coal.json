@@ -37,12 +37,13 @@
     "canSpawnInWorld": true,
     "biomeWhitelist": "tag:overworld",
     "biomeBlacklist": "tag:ocean",
-    "spawnWeight": 0.1
+    "spawnWeight": 10
   },
   "BreedData": {
     "feedItem": "minecraft:poppy",
     "feedAmount": 4,
-    "isBreedable": true
+    "isBreedable": true,
+    "breedChance": 0.1
   },
   "TraitData": {}
 }

@@ -38,10 +38,11 @@
     "canSpawnInWorld": true,
     "biomeWhitelist": "tag:nether",
     "lightLevel": "NIGHT",
-    "spawnWeight": 0.1
+    "spawnWeight": 8
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "breedChance": 0.1
   },
   "TraitData": {
     "hasTraits": true

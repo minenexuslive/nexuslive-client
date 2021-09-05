@@ -60,7 +60,7 @@
         "canSpawnInWorld": true,
         "biomeWhitelist": "",
         "biomeBlacklist": "",
-        "spawnWeight": 0.1,
+        "spawnWeight": 1,
         "minYLevel": 0,
         "maxYLevel": 255,
         "minGroupSize": 1,

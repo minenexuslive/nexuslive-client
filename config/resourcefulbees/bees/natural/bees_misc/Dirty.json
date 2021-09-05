@@ -64,7 +64,7 @@
       "canSpawnInWorld": true,
       "biomeWhitelist": "tag:OVERWORLD",
       "biomeBlacklist": "",
-      "spawnWeight": 0.2,
+      "spawnWeight": 12,
       "minYLevel": 0,
       "maxYLevel": 255,
       "minGroupSize": 1,

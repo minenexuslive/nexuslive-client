@@ -31,7 +31,8 @@
   "BreedData": {
     "isBreedable": true,
     "parent1": "rgbee",
-    "parent2": "zombie"
+    "parent2": "zombie",
+    "breedChance": 0.1
   },
   "TraitData": {
     "hasTraits": true

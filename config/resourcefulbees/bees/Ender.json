@@ -38,10 +38,11 @@
     "canSpawnInWorld": true,
     "biomeWhitelist": "TAG:end",
     "lightLevel": "NIGHT",
-    "spawnWeight": 0.1
+    "spawnWeight": 1
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "breedChance": 0.1
   },
   "TraitData": {
     "hasTraits": true

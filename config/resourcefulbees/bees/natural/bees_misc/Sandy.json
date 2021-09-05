@@ -64,7 +64,7 @@
         "canSpawnInWorld": true,
         "biomeWhitelist": "tag:sandy",
         "biomeBlacklist": "",
-        "spawnWeight": 0.1,
+        "spawnWeight": 11,
         "minYLevel": 0,
         "maxYLevel": 255,
         "minGroupSize": 1,

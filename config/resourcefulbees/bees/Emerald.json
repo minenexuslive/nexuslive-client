@@ -34,11 +34,12 @@
   "SpawnData": {
     "canSpawnInWorld": true,
     "biomeWhitelist": "TAG:Mountain,Hills",
-    "spawnWeight": 0.1
+    "spawnWeight": 1
   },
   "BreedData": {
     "isBreedable": true,
-    "spawnWeight": 0.2
+    "spawnWeight": 1,
+    "breedChance": 0.1
   },
   "TraitData": {}
 }

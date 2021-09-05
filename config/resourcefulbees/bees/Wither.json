@@ -38,7 +38,8 @@
     "parent1": "Coal",
     "parent2": "Skeleton",
     "feedItem": "minecraft:rotten_flesh",
-    "feedAmount": 12
+    "feedAmount": 12,
+    "breedChance": 0.1
   },
   "TraitData": {
     "hasTraits": true

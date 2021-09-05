@@ -36,12 +36,13 @@
     "canSpawnInWorld": true,
     "biomeWhitelist": "tag:nether",
     "lightLevel": "NIGHT",
-    "spawnWeight": 0.1
+    "spawnWeight": 1
   },
   "BreedData": {
     "isBreedable": true,
     "parent1": "Wither",
-    "parent2": "Diamond"
+    "parent2": "Diamond",
+    "breedChance": 0.1
   },
   "TraitData": {
     "hasTraits": true
