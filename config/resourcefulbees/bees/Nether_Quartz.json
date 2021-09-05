@@ -32,7 +32,8 @@
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:quartz",
     "mainOutputWeight": 0.01,
-    "mainOutputCount": 2
+    "mainOutputCount": 2,
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,

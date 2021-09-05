@@ -31,7 +31,8 @@
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:lapis_lazuli",
     "mainOutputWeight": 0.01,
-    "mainOutputCount": 8
+    "mainOutputCount": 8,
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,

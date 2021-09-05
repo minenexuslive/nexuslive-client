@@ -31,7 +31,8 @@
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:diamond",
     "mainOutputWeight": 0.01,
-    "mainOutputCount": 1
+    "mainOutputCount": 1,
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,

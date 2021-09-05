@@ -30,7 +30,8 @@
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:rotten_flesh",
-    "mainOutputWeight": 0.01
+    "mainOutputWeight": 0.01,
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,

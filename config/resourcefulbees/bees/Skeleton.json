@@ -28,7 +28,8 @@
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:bone",
-    "mainOutputWeight": 0.01
+    "mainOutputWeight": 0.01,
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,

@@ -31,7 +31,8 @@
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:redstone",
     "mainOutputWeight": 0.01,
-    "mainOutputCount": 4
+    "mainOutputCount": 4,
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,

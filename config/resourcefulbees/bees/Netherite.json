@@ -30,7 +30,8 @@
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:netherite_ingot",
-    "mainOutputWeight": 0.01
+    "mainOutputWeight": 0.01,
+    "recipeTime": 3000
   },
   "SpawnData": {
     "canSpawnInWorld": true,

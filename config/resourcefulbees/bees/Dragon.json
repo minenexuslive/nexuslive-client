@@ -40,7 +40,8 @@
     "mainOutput": "minecraft:dragon_egg",
     "bottleOutput": "minecraft:dragon_breath",
     "mainOutputWeight": 0.01,
-    "bottleOutputWeight": 0.5
+    "bottleOutputWeight": 0.5,
+    "recipeTime": 3000
   },
   "SpawnData": {},
   "BreedData": {
