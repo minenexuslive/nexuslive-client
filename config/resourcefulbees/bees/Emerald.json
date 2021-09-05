@@ -7,6 +7,12 @@
     "honeycombColor": "#18eb09",
     "modelType": "ORE"
   },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
+  },
   "MutationData": {
     "hasMutation": true,
     "mutations" : [
@@ -22,15 +28,18 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:emerald"
+    "mainOutput": "minecraft:emerald",
+    "mainOutputWeight": 0.01
   },
   "SpawnData": {
     "canSpawnInWorld": true,
-    "biomeWhitelist": "TAG:Mountain,Hills"
+    "biomeWhitelist": "TAG:Mountain,Hills",
+    "spawnWeight": 1
   },
   "BreedData": {
     "isBreedable": true,
-    "spawnWeight": 2
+    "spawnWeight": 1,
+    "breedChance": 0.1
   },
   "TraitData": {}
 }

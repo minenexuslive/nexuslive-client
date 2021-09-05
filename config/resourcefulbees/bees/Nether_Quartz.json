@@ -9,6 +9,12 @@
     "primaryColor": "#D4CABA",
     "secondaryColor": "#303030"
   },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
+  },
   "MutationData": {
     "hasMutation": true,
     "mutations" : [
@@ -25,15 +31,18 @@
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:quartz",
+    "mainOutputWeight": 0.01,
     "mainOutputCount": 2
   },
   "SpawnData": {
     "canSpawnInWorld": true,
     "biomeWhitelist": "tag:nether",
-    "lightLevel": "NIGHT"
+    "lightLevel": "NIGHT",
+    "spawnWeight": 8
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "breedChance": 0.1
   },
   "TraitData": {
     "hasTraits": true

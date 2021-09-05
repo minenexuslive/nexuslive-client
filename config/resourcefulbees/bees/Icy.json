@@ -2,8 +2,14 @@
   "flower": "minecraft:water",
   "hasHoneycomb": false,
   "traits": ["can_swim"],
-  "maxTimeInHive": 1200,
+  "maxTimeInHive": 12000,
   "sizeModifier": 0.75,
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
+  },
   "baseLayerTexture": "natural/icy_bee",
   "ColorData": {
     "isBeeColored": false,
@@ -32,7 +38,9 @@
   "SpawnData": {
     "canSpawnInWorld": true,
     "biomeWhitelist": "tag:COLD",
-    "biomeBlacklist": "tag:ocean"
+    "biomeBlacklist": "tag:ocean",
+    "spawnWeight": 1,
+    "breedChance": 0.1
   },
   "BreedData": {
     "isBreedable": true

@@ -1,6 +1,6 @@
 {
     "flower": "tconstruct:cobalt_block",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 12000,
     "traits": ["nether"],
     "hasHoneycomb": true,
     "baseLayerTexture": "misc/cobalt_bee",
@@ -39,11 +39,12 @@
     "CentrifugeData": {
         "hasCentrifugeOutput": true,
         "mainOutput": "tconstruct:cobalt_ingot",
+        "mainOutputWeight": 0.01,
         "bottleOutput": "minecraft:honey_bottle",
         "bottleOutputWeight": 0.25,
         "bottleOutputCount": 1,
         "bottleNBTData": {},
-        "recipeTime": 300,
+        "recipeTime": 3000,
         "hasFluidOutput": false
     },
     "SpawnData": {
@@ -54,7 +55,7 @@
         "minYLevel": 0,
         "maxYLevel": 255,
         "minGroupSize": 1,
-        "maxGroupSize": 3,
+        "maxGroupSize": 1,
         "lightLevel": "ANY"
     },
     "BreedData": {
@@ -62,11 +63,11 @@
         "parent1": "",
         "parent2": "",
         "breedWeight": 10,
-        "breedChance": 0.4,
+        "breedChance": 0.1,
         "feedItem": "tconstruct:cobalt_block",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": true

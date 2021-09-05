@@ -1,6 +1,6 @@
 {
   "flower": "tag:forge:dirt",
-  "maxTimeInHive": 1200,
+  "maxTimeInHive": 12000,
   "traits": [""],
   "hasHoneycomb": true,
   "baseLayerTexture": "misc/dirty_bee",
@@ -64,7 +64,7 @@
       "canSpawnInWorld": true,
       "biomeWhitelist": "tag:OVERWORLD",
       "biomeBlacklist": "",
-      "spawnWeight": 2,
+      "spawnWeight": 12,
       "minYLevel": 0,
       "maxYLevel": 255,
       "minGroupSize": 1,
@@ -80,7 +80,7 @@
       "feedItem": "tag:forge:dirt",
       "feedAmount": 5,
       "childGrowthDelay": -24000,
-      "breedDelay": 6000
+      "breedDelay": 30000
   },
   "TraitData": {
       "hasTraits": false

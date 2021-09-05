@@ -193,7 +193,7 @@
 	#
 	#Set to true if you want easter egg bees to generate (WIP) [true/false]
 	#The only easter egg bee currently available is the Oreo bee
-	enableEasterEggBees = true
+	enableEasterEggBees = false
 	#
 	#Set to true to hide certain data in the Beepedia until the player has unlocked the bee. [true/false]
 	beepediaHideLocked = false
@@ -204,7 +204,7 @@
 	#
 	#Set this to false when you want to overwrite the default bee files. [true/false]
 	#This should be run at least once for initial generation.
-	generateDefaults = true
+	generateDefaults = false
 
 ["Honey Generator Options"]
 	#
@@ -237,20 +237,20 @@
 	#Chance for nest to spawn when generating chunks in nether category biomes. [1/x]
 	#A higher value means the nest is less likely to spawn.
 	#Range: 4 ~ 100
-	nether_nest_generation_chance = 4
+	nether_nest_generation_chance = 100
 	#The value added to weight for bees in a flower forests
 	#Range: 0 ~ 9
-	beesMoreCommonInFlowerForests = 4
+	beesMoreCommonInFlowerForests = 1
 	#
 	#Chance for nest to spawn when generating chunks in overworld category biomes. [1/x]
 	#A higher value means the nest is less likely to spawn.
 	#Range: 4 ~ 100
-	overworld_nest_generation_chance = 24
+	overworld_nest_generation_chance = 100
 	#
 	#Chance for nest to spawn when generating chunks in end category biomes. [1/x]
 	#A higher value means the nest is less likely to spawn.
 	#Range: 4 ~ 100
-	end_nest_generation_chance = 16
+	end_nest_generation_chance = 100
 	#
 	#Should bee nests generate in world? 
 	#Note: They will only generate in biomes where bees can spawn
@@ -268,9 +268,9 @@
 	#
 	#The amount of hunger restored when eating a honeycomb.
 	#Range: 0 ~ 8
-	honeycombHunger = 1
+	honeycombHunger = 4
 	#
 	#The amount of saturation restored when eating a honeycomb.
 	#Range: 0.0 ~ 8.0
-	honeycombSaturation = 0.6
+	honeycombSaturation = 2
 

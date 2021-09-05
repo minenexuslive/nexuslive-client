@@ -1,6 +1,6 @@
 {
   "flower": "minecraft:obsidian",
-  "maxTimeInHive": 2400,
+  "maxTimeInHive": 12000,
   "hasHoneycomb": true,
   "baseLayerTexture" : "dragon/dragon_bee",
   "traits": [ "ender", "nether", "wither" ],
@@ -15,6 +15,12 @@
     "secondaryColor": "#171717",
     "glowColor": "#E400FF",
     "honeycombColor": "#E400FF"
+  },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
   },
   "MutationData": {
     "hasMutation": true,
@@ -42,7 +48,8 @@
     "parent1": "Wither",
     "parent2": "Ender",
     "feedItem": "minecraft:end_stone",
-    "feedAmount": 12
+    "feedAmount": 12,
+    "breedChance": 0.1
   },
   "TraitData": {
     "hasTraits": true

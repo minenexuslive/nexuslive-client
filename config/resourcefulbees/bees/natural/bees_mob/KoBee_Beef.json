@@ -1,6 +1,6 @@
 {
     "flower": "cookingforblockheads:fridge",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 12000,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "/custom/bee",
@@ -20,10 +20,10 @@
         "modelType": "DEFAULT"
     },
     "CombatData": {
-        "isPassive": true,
-        "removeStingerOnAttack": true,
+        "isPassive": false,
+        "removeStingerOnAttack": false,
         "inflictsPoison": true,
-        "attackDamage": 1
+        "attackDamage": 20
     },
     "MutationData": {
         "hasMutation": true,
@@ -58,7 +58,7 @@
         "bottleOutputWeight": 0.25,
         "bottleOutputCount": 1,
         "bottleNBTData": {},
-        "recipeTime": 300,
+        "recipeTime": 3000,
         "hasFluidOutput": false
     },
     "SpawnData": {
@@ -77,11 +77,11 @@
         "parent1": "",
         "parent2": "",
         "breedWeight": 10,
-        "breedChance": 0.6,
+        "breedChance": 0.1,
         "feedItem": "minecraft:beef",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

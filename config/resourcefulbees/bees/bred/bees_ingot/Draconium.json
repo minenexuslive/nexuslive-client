@@ -1,6 +1,6 @@
 {
     "flower": "draconicevolution:draconium_block",
-    "maxTimeInHive": 2400,
+    "maxTimeInHive": 12000,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "ato/draconium_bee",
@@ -20,10 +20,10 @@
         "modelType": "ORE"
     },
     "CombatData": {
-        "isPassive": true,
-        "removeStingerOnAttack": true,
+        "isPassive": false,
+        "removeStingerOnAttack": false,
         "inflictsPoison": true,
-        "attackDamage": 1
+        "attackDamage": 20
     },
     "MutationData": {
         "hasMutation": true,
@@ -46,7 +46,7 @@
         "hasCentrifugeOutput": true,
         "mainInputCount": 1,
         "mainOutput": "draconicevolution:draconium_dust",
-        "mainOutputWeight": 0.35,
+        "mainOutputWeight": 0.01,
         "mainOutputCount": 6,
         "mainNBTData": {},
         "secondaryOutput": "draconicevolution:draconium_ingot",
@@ -57,7 +57,7 @@
         "bottleOutputWeight": 0.25,
         "bottleOutputCount": 1,
         "bottleNBTData": {},
-        "recipeTime": 300,
+        "recipeTime": 3000,
         "hasFluidOutput": false
     },
     "SpawnData": {
@@ -76,11 +76,11 @@
         "parent1": "Ender",
         "parent2": "Netherite",
         "breedWeight": 10,
-        "breedChance": 0.5,
+        "breedChance": 0.1,
         "feedItem": "draconicevolution:draconium_block",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

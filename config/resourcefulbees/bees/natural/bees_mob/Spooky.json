@@ -1,6 +1,6 @@
 {
     "flower": "minecraft:bone_block",
-    "maxTimeInHive": 1200,
+    "maxTimeInHive": 12000,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "/skeleton/skeleton_bee",
@@ -20,10 +20,10 @@
         "modelType": "default"
     },
     "CombatData": {
-        "isPassive": true,
-        "removeStingerOnAttack": true,
+        "isPassive": false,
+        "removeStingerOnAttack": false,
         "inflictsPoison": true,
-        "attackDamage": 1
+        "attackDamage": 20
     },
     "MutationData": {
         "hasMutation": true,
@@ -46,7 +46,7 @@
         "hasCentrifugeOutput": true,
         "mainInputCount": 1,
         "mainOutput": "minecraft:bone",
-        "mainOutputWeight": 0.5,
+        "mainOutputWeight": 0.01,
         "mainOutputCount": 1,
         "mainNBTData": {},
         "secondaryOutput": "minecraft:bone_meal",
@@ -57,7 +57,7 @@
         "bottleOutputWeight": 0.25,
         "bottleOutputCount": 1,
         "bottleNBTData": {},
-        "recipeTime": 300,
+        "recipeTime": 3000,
         "hasFluidOutput": false
     },
     "SpawnData": {
@@ -76,11 +76,11 @@
         "parent1": "",
         "parent2": "",
         "breedWeight": 10,
-        "breedChance": 0.4,
+        "breedChance": 0.1,
         "feedItem": "xreliquary:rib_bone",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

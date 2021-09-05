@@ -2,7 +2,7 @@
   "flower": "minecraft:spawner",
   "hasHoneycomb": false,
   "traits": [],
-  "maxTimeInHive": 1200,
+  "maxTimeInHive": 12000,
   "baseLayerTexture": "dungeon/dungeon_bee",
   "ColorData": {
     "isBeeColored": false,
@@ -11,6 +11,12 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": false
+  },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
   },
   "MutationData": {
     "hasMutation": true,
@@ -39,7 +45,7 @@
     "canSpawnInWorld": true,
     "biomeWhitelist": "tag:overworld",
     "biomeBlacklist": "tag:nether",
-    "spawnWeight": 2,
+    "spawnWeight": 1,
     "minGroupSize": 1,
     "maxGroupSize": 1,
     "maxYLevel": 45,
@@ -48,7 +54,8 @@
   "BreedData": {
     "isBreedable": true,
     "feedItem": "minecraft:mossy_cobblestone",
-    "feedAmount": 4
+    "feedAmount": 4,
+    "breedChance": 0.1
   },
   "TraitData": {
     "hasTraits": true

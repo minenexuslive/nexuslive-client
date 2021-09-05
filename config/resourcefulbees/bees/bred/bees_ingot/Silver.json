@@ -1,6 +1,6 @@
 {
     "flower": "thermal:silver_block",
-    "maxTimeInHive": 2400,
+    "maxTimeInHive": 12000,
     "traits": [""],
     "hasHoneycomb": true,
     "baseLayerTexture": "ato/silver_bee",
@@ -20,10 +20,10 @@
         "modelType": "ORE"
     },
     "CombatData": {
-        "isPassive": true,
-        "removeStingerOnAttack": true,
+        "isPassive": false,
+        "removeStingerOnAttack": false,
         "inflictsPoison": true,
-        "attackDamage": 1
+        "attackDamage": 20
     },
     "MutationData": {
         "hasMutation": true,
@@ -45,11 +45,12 @@
     "CentrifugeData": {
         "hasCentrifugeOutput": true,
         "mainOutput": "thermal:silver_ingot",
+        "mainOutputWeight": 0.01,
         "bottleOutput": "minecraft:honey_bottle",
         "bottleOutputWeight": 0.25,
         "bottleOutputCount": 1,
         "bottleNBTData": {},
-        "recipeTime": 300,
+        "recipeTime": 3000,
         "hasFluidOutput": false
     },
     "SpawnData": {
@@ -68,11 +69,11 @@
         "parent1": "Aluminum",
         "parent2": "Gold",
         "breedWeight": 10,
-        "breedChance": 0.15,
+        "breedChance": 0.1,
         "feedItem": "thermal:silver_block",
         "feedAmount": 5,
         "childGrowthDelay": -24000,
-        "breedDelay": 6000
+        "breedDelay": 30000
     },
     "TraitData": {
         "hasTraits": false

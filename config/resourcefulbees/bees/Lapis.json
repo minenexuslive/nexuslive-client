@@ -1,12 +1,18 @@
 {
   "flower": "tag:forge:storage_blocks/lapis",
-  "maxTimeInHive": 600,
+  "maxTimeInHive": 12000,
   "hasHoneycomb": true,
   "baseLayerTexture": "ores/lapis/lapis_bee",
   "ColorData": {
     "isBeeColored": false,
     "honeycombColor": "#345ec3",
     "modelType": "ORE"
+  },
+  "CombatData": {
+    "isPassive": false,
+    "removeStingerOnAttack": false,
+    "inflictsPoison": true,
+    "attackDamage": 20
   },
   "MutationData": {
     "hasMutation": true,
@@ -24,12 +30,15 @@
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
     "mainOutput": "minecraft:lapis_lazuli",
+    "mainOutputWeight": 0.01,
     "mainOutputCount": 8
   },
   "SpawnData": {
     "canSpawnInWorld": true,
     "biomeWhitelist": "tag:OVERWORLD",
-    "biomeBlacklist": "tag:ocean"
+    "biomeBlacklist": "tag:ocean",
+    "spawnWeight": 3,
+    "breedChance": 0.1
   },
   "BreedData": {
     "isBreedable": true
