@@ -55,7 +55,7 @@
     },
     "SpawnData": {
         "canSpawnInWorld": true,
-        "biomeWhitelist": "",
+        "biomeWhitelist": "tag:PLAINS",
         "biomeBlacklist": "",
         "spawnWeight": 1,
         "minYLevel": 0,

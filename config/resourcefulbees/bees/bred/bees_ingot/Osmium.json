@@ -55,7 +55,7 @@
     },
     "SpawnData": {
         "canSpawnInWorld": true,
-        "biomeWhitelist": "",
+        "biomeWhitelist": "tag:OCEAN",
         "biomeBlacklist": "",
         "spawnWeight": 1,
         "minYLevel": 0,
