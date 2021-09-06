@@ -10,3 +10,4 @@ craftingTable.removeRecipe(<item:rftoolsdim:knowledge_holder>);
 craftingTable.removeRecipe(<item:rftoolsdim:dimlet_workbench>);
 craftingTable.removeRecipe(<item:rftoolsdim:enscriber>);
 craftingTable.removeRecipe(<item:rftoolsdim:empty_dimension_tab>);
+craftingTable.removeRecipe(<item:rftoolsbuilder:builder>);

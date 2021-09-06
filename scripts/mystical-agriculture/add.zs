@@ -35,7 +35,6 @@ mods.extendedcrafting.TableCrafting.addShaped("f5543b0a-92e3-4b0a-8e51-2c3d1c14d
 	[<item:minecraft:air>, <item:mysticalagriculture:supremium_essence>, <item:minecraft:air>]
 ]);
 
-]);
 mods.extendedcrafting.TableCrafting.addShaped("9f03fe2c-ef62-458a-81d8-7e8f0525a48b", 0, <item:mysticalagradditions:creative_essence>, [
 	[<item:mysticalagradditions:insanium_ingot>, <item:mysticalagradditions:insanium_ingot>, <item:mysticalagriculture:supremium_ingot>, <item:mysticalagradditions:insanium_essence>, <item:mysticalagradditions:insanium_essence>, <item:mysticalagradditions:insanium_essence>, <item:mysticalagriculture:supremium_ingot>, <item:mysticalagradditions:insanium_ingot>, <item:mysticalagradditions:insanium_ingot>], 
 	[<item:mysticalagradditions:insanium_ingot>, <item:mysticalagriculture:soul_jar>.withTag({Souls: 10.0 as double, Type: "industrialagriculture:shulker" as string}), <item:mysticalagriculture:supremium_ingot>, <item:mysticalagradditions:dragon_scale>, <item:mysticalagradditions:insanium_essence>, <item:mysticalagradditions:dragon_scale>, <item:mysticalagriculture:supremium_ingot>, <item:mysticalagriculture:soul_jar>.withTag({Souls: 10.0 as double, Type: "industrialagriculture:shulker" as string}), <item:mysticalagradditions:insanium_ingot>], 

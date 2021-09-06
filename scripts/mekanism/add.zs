@@ -47,14 +47,14 @@ mods.extendedcrafting.TableCrafting.addShaped("6d2e4eb2-77cb-483f-bba4-2d7ca7c45
 ]);
 
 mods.extendedcrafting.TableCrafting.addShaped("bfb90873-c0b9-45f7-8d86-fa4c7a275646", 0, <item:mekanism:atomic_disassembler>.withTag({HideFlags: 2 as int, mekData: {mode: 2 as int}}), [
-	[<item:mekanism:alloy_reinforced>, <item:rats:rat_upgrade_miner>, <item:mekanism:alloy_reinforced>], 
+	[<item:mekanism:alloy_reinforced>, <item:mekanism:upgrade_speed>, <item:mekanism:alloy_reinforced>], 
 	[<item:minecraft:diamond_shovel>.withTag({Damage: 0 as int}), <item:minecraft:diamond_pickaxe>.withTag({Damage: 0 as int}), <item:minecraft:diamond_axe>.withTag({Damage: 0 as int})], 
 	[<item:mekanism:alloy_reinforced>, <item:thermal:flux_capacitor>, <item:mekanism:alloy_reinforced>]
 ]);
 mods.extendedcrafting.TableCrafting.addShaped("5307e109-6c85-4f3e-9e1d-73976e808bc2", 0, <item:mekanism:modification_station>, [
 	[<item:draconicevolution:draconium_core>, <item:resourcefulbees:netherite_honeycomb>, <item:pneumaticcraft:capacitor>, <item:resourcefulbees:netherite_honeycomb>, <item:draconicevolution:draconium_core>], 
 	[<item:resourcefulbees:netherite_honeycomb>, <item:appliedenergistics2:terminal>, <item:mekanism:pellet_polonium>, <item:appliedenergistics2:terminal>, <item:resourcefulbees:netherite_honeycomb>], 
-	[<item:pneumaticcraft:capacitor>, <item:mekanism:pellet_polonium>, <item:computercraft:computer_normal>, <item:mekanism:pellet_polonium>, <item:pneumaticcraft:capacitor>], 
+	[<item:pneumaticcraft:capacitor>, <item:mekanism:pellet_polonium>, <item:extendedcrafting:crystaltine_catalyst>, <item:mekanism:pellet_polonium>, <item:pneumaticcraft:capacitor>], 
 	[<item:resourcefulbees:netherite_honeycomb>, <item:appliedenergistics2:terminal>, <item:mekanism:pellet_polonium>, <item:appliedenergistics2:terminal>, <item:resourcefulbees:netherite_honeycomb>], 
 	[<item:draconicevolution:draconium_core>, <item:resourcefulbees:netherite_honeycomb>, <item:pneumaticcraft:capacitor>, <item:resourcefulbees:netherite_honeycomb>, <item:draconicevolution:draconium_core>]
 ]);
