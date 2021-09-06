@@ -196,7 +196,9 @@
     "item.resourcefulbees.certus_bee_spawn_egg": "Certus Bee Spawn Egg",
     "entity.resourcefulbees.certus_bee": "Certus Bee",
     "item.resourcefulbees.oreo_bee_spawn_egg": "Oreo Bee Spawn Egg",
+    "block.resourcefulbees.oreo_honeycomb_block": "Oreo Honeycomb Block",
 	"entity.resourcefulbees.oreo_bee": "Oreo Bee",
+    "item.resourcefulbees.oreo_honeycomb": "Oreo Honeycomb",
 	"trait.resourcefulbees.oreo": "Oreo",
 	"item.resourcefulbees.oreo_cookie": "Epic Oreo",
     "block.resourcefulbees.spider_honeycomb_block": "Spider Honeycomb Block",
@@ -261,10 +263,16 @@
     "item.resourcefulbees.dirty_bee_spawn_egg": "Dirty Bee Spawn Egg",
     "entity.resourcefulbees.dirty_bee": "Dirty Bee",
     "trait.resourcefulbees.starry": "Starry Night Trait",
-    "block.resourcefulbees:draconium_honeycomb_block": "Draconium Honeycomb Block",
-    "item.resourcefulbees:draconium_honeycomb": "Draconium Honeycomb",
-    "item.resourcefulbees:draconium_bee_spawn_egg": "Draconium Spawn Egg",
-    "entity.resourcefulbees.draconium_bee": "Draconium Bee"
+    "block.resourcefulbees.draconium_honeycomb_block": "Draconium Honeycomb Block",
+    "item.resourcefulbees.draconium_honeycomb": "Draconium Honeycomb",
+    "item.resourcefulbees.draconium_bee_spawn_egg": "Draconium Spawn Egg",
+    "entity.resourcefulbees.draconium_bee": "Draconium Bee",
+    "block.resourcefulbees.yeti_honeycomb_block": "Yeti Honeycomb Block",
+    "item.resourcefulbees.yeti_honeycomb": "Yeti Honeycomb",
+    "item.resourcefulbees.yeti_bee_spawn_egg": "Yeti Spawn Egg",
+    "entity.resourcefulbees.yeti_bee": "Yeti Bee"
+
+
 }
 
 
