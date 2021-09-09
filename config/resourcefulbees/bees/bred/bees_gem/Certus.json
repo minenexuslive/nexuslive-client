@@ -69,7 +69,7 @@
     },
     "BreedData": {
         "isBreedable": true,
-        "parent1": "Quartz",
+        "parent1": "Nether_Quartz",
         "parent2": "Copper",
         "breedWeight": 10,
         "breedChance": 0.1,
