@@ -21,7 +21,7 @@
 	#If the Aura Imbalance effect of ores spawning in the area if Aura levels are too high should occur
 	oreEffect = true
 	#If the chunk loader block should be enabled
-	chunkLoader = true
+	chunkLoader = false
 	#If the Aura Imbalance effect of grass growing on netherrack if the Aura levels are high enough should occur
 	netherGrassEffect = true
 	#If the Aura Imbalance effect of explosions happening randomly if Aura levels are too low should occur
